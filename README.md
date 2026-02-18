@@ -2,7 +2,7 @@
 
 A personal portfolio website built with HTML, CSS, and JavaScript.
 
-**Live Site:** [sourabhshende20.github.io/portfolio](https://sourabhshende20.github.io/portfolio)
+**Live Site:** https://sourabhshende20.github.io/My-Portfolio/
 
 ---
 
